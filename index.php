@@ -7,10 +7,6 @@
 */
 
 
-//인클루드
-include "/home/yhc1/public_html/dbcon.php";		// DB connect
-include "/home/yhc1/public_html/setting.php";	// 설정 값 저장
-
 ?>
 
 
