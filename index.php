@@ -4,8 +4,6 @@
 	작성일 : 2020-07-09
 	구 성 : Naver Cloud Platform CentOS 7.3 / Apache 2.4 / PHP 7.0 / MySQL 8.0
 	내 용 : 기본 화면
-
-	Test URL : http://101.101.219.140/index.php
 */
 
 
